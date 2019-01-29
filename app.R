@@ -28,7 +28,7 @@ ui<-dashboardPage(
                         p("The RCRM theoretical results are summarized in a manuscript (Hu, Mackey, and Thomas; in progress). The two-stage mixed effects model details can be found in Section 8.4 of Fitzmaurice, Laird, and Ware (2011)."),
                         br(),
                         br(),
-                        p("This R Shiny App was co-developed by Nan Hu and a PDBB summer intern Zhe Qu (Ph.D. candidate at Tulane University). If you have any technical questions or any ideas for improving functionality, please contact Nan Hu (hu.nan@gene.com).", style = "color:blue"))
+                        p("This R Shiny App was co-developed by Nan Hu (Genentech Inc., Biostatistics) and a summer intern Zhe Qu (Ph.D. candidate at Tulane University). If you have any technical questions or any ideas for improving functionality, please contact Nan Hu (hu.nan@gene.com).", style = "color:blue"))
               
               
       ),
