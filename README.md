@@ -9,7 +9,7 @@ install.packages("DT")
 install.packages("shinyjs")
 install.packages("ggplot2")
 ```
-Then, type the following:
+Note that it might take up to 5 minutes if these packages are not installed in your local R or RStudio. After the installation is finished, then type the following:
 ```
 runGitHub("RCRM_power_size", "nan-hu-personal")
 ```
